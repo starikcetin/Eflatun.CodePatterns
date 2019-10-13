@@ -1,9 +1,0 @@
-{
-    "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
-    "dependencies": {},
-    "description": "Common code pattern utilities for Unity.",
-    "displayName": "Eflatun.CodePatterns",
-    "license": "MIT",
-    "name": "com.eflatun.codepatterns",
-    "version": "0.0.1"
-}
