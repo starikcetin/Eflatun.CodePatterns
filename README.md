@@ -1,3 +1,5 @@
+[![openupm](https://img.shields.io/npm/v/com.eflatun.codepatterns?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.eflatun.codepatterns/)
+
 # Eflatun.CodePatterns
 Common code pattern utilities for Unity.
 
